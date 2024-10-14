@@ -9,3 +9,4 @@ window.onload = function() {
 function changeText() {
   document.getElementById("myParagraph").innerText = "You clicked the button!";
 }
+

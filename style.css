@@ -1,21 +1,21 @@
 /* style.css */
 
 body {
-  background-color: #f0f0f0;
+  background-color: #130101;
   font-family: Arial, sans-serif;
-  color: #333;
+  color: #f2ecec;
   text-align: center;
   margin: 0;
   padding: 20px;
 }
 
 h1 {
-  color: #007acc;
+  color: #f2f5f8;
   font-size: 36px;
   margin-bottom: 10px;
 }
 
 p {
-  font-size: 18px;
+  font-size: 25px;
   color: #555;
 }
